@@ -18,9 +18,9 @@ async function main() {
   // Write code to use inquirer to gather information about the development team members,
   // and to create objects for each team member (using the correct classes as blueprints!)
   const inputs = await getUI.getEmployeeDetailsAll();
-  console.log(inputs);
 
   if (inputs) {
+    console.log('∞° inputs=\n"'+JSON.stringify(inputs+'"'));
     // After the user has input all employees desired, call the `render` function (required
     // above) and pass in an array containing all employee objects; the `render` function will
     // generate and return a block of HTML including templated divs for each employee!
