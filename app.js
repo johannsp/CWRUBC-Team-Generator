@@ -18,6 +18,7 @@ async function main() {
   // Write code to use inquirer to gather information about the development team members,
   // and to create objects for each team member (using the correct classes as blueprints!)
   const inputs = await getUI.getEmployeeDetailsAll();
+  console.log('∞° inputs....\n');
 
   if (inputs) {
     console.log('∞° inputs=\n"'+JSON.stringify(inputs+'"'));
