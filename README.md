@@ -4,7 +4,7 @@ CLI Node application to prompt the user for information on a variable number of
 employees of type engineer, intern, or manager and generate a web page
 displaying a chart of their relevant information.
 
-
+[![Team-Generator-Node-App-preview.png](https://i.postimg.cc/CKPVc0Wq/Team-Generator-Node-App-preview.png)](https://postimg.cc/f39FbGWz)
 
 ## Table of Contents
 - [Installation](https://github.com/johannsp/CWRUBC-Team-Generator/CWRUBC-Team-Generator#Installation) 
