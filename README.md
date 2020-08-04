@@ -29,10 +29,10 @@ see the LICENSE.md file for details
 
 ## Badges
 
-[![Known Vulnerabilities](https://snyk.io/test/github/CWRUBC-Team-Generator/badge.svg?targetFile=package.json)](https://snyk.io/test/github/CWRUBC-Team-Generator)
-[![GitHub issues](https://img.shields.io/github/issues/CWRUBC-Team-Generator)](https://img.shields.io/github/issues/CWRUBC-Team-Generator)
-[![GitHub forks](https://img.shields.io/github/forks/CWRUBC-Team-Generator)](https://img.shields.io/github/forks/CWRUBC-Team-Generator)
-[![GitHub license](https://img.shields.io/github/license/CWRUBC-Team-Generator)](https://img.shields.io/github/license/CWRUBC-Team-Generator)
+[![Known Vulnerabilities](https://snyk.io/test/github/johannsp/CWRUBC-Team-Generator/badge.svg?targetFile=package.json)](https://snyk.io/test/github/johannsp/CWRUBC-Team-Generator)
+[![GitHub issues](https://img.shields.io/github/issues/johannsp/CWRUBC-Team-Generator)](https://img.shields.io/github/issues/johannsp/CWRUBC-Team-Generator)
+[![GitHub forks](https://img.shields.io/github/forks/johannsp/CWRUBC-Team-Generator)](https://img.shields.io/github/forks/johannsp/CWRUBC-Team-Generator)
+[![GitHub license](https://img.shields.io/github/license/johannsp/CWRUBC-Team-Generator)](https://img.shields.io/github/license/johannsp/CWRUBC-Team-Generator)
 
 ## Contributing
 
